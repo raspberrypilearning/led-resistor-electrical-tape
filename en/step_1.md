@@ -1,59 +1,44 @@
-## Introduction
+## Gather components
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+You will need:
++ 2 x socket-socket jumper wires
++ 1 x resistor
++ 1 x LED
++ Electrical tape
++ Scissors
 
-### What you will make
+![An image showing two jumper wires, electrical tape, an LED, a resistor and a pair of scissors.](images/you-will-need.jpg)
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+## Find the positive leg of an LED
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+An LED has a **positive** leg and a **negative** leg. The long leg is positive and the short leg is negative. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![An LED with legs at two different lengths. The long leg is labelled positive and the short leg is labelled negative.]()
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+**TIP**: Another way to check if a leg is positive or negative is to use your finger to find the flat side of the LED bulb. The **flat side** is on the same side as the **negative** leg. 
 
-+ A computer or tablet capable of running Scratch 3
+## Twist the resistor around the positive leg of the LED
 
-### Software
+Bend one of the legs of the resistor around the positive leg of the LED.
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![The leg of a resistor is bent around the positive leg of an LED.](images/bend-leg.jpg)
 
-### Downloads
+Twist the resistor leg around the LED leg around three times. 
 
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+![The leg of a resistor is twisted around the positive leg of an LED.](images/twist-leg.jpg)
 
---- /collapse ---
+## Secure the resistor with electrical tape
 
---- collapse ---
----
-title: What you will learn
----
+Cut a small piece of electrical tape and stick it around the twisted resistor. This will help to make it a bit more secure.
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.jpg)
 
---- /collapse ---
+## Attach the two jumper wires
 
---- collapse ---
----
-title: Additional information for educators
----
+Attach one jumper wire to the other end of the resitor.
 
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
+Attach the other jumper wire to the negative leg of the LED.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
+![Two jumper wires are attached to an LED and a resistor.](images/jumper-wires.jpg)
 
---- /collapse ---
+**TIP**: If they are quite loose then add some more electrical tape across the joins.
