@@ -13,7 +13,7 @@ You will need:
 
 An LED has a **positive** leg and a **negative** leg. The long leg is positive and the short leg is negative. 
 
-![An LED with legs at two different lengths. The long leg is labelled positive and the short leg is labelled negative.]()
+![An LED with legs at two different lengths. The long leg is labelled positive and the short leg is labelled negative.](images/pos-neg.png)
 
 **TIP**: Another way to check if a leg is positive or negative is to use your finger to find the flat side of the LED bulb. The **flat side** is on the same side as the **negative** leg. 
 
@@ -35,7 +35,7 @@ Cut a small piece of electrical tape and stick it around the twisted resistor. T
 
 ## Attach the two jumper wires
 
-Attach one jumper wire to the other end of the resitor.
+Attach one jumper wire to the other end of the resistor.
 
 Attach the other jumper wire to the negative leg of the LED.
 
