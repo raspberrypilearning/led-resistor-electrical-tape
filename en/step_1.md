@@ -13,7 +13,7 @@ You will need:
 
 An LED has a **positive** leg and a **negative** leg. The long leg is positive and the short leg is negative. 
 
-![An LED with legs at two different lengths. The long leg is labelled positive and the short leg is labelled negative.](images/pos-neg.png)
+![An LED with legs at two different lengths. The long leg is labelled positive and the short leg is labelled negative.](images/pos-neg.png){:width="300px"}
 
 **TIP**: Another way to check if a leg is positive or negative is to use your finger to find the flat side of the LED bulb. The **flat side** is on the same side as the **negative** leg. 
 
