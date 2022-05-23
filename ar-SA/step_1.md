@@ -1,44 +1,44 @@
-## Gather components
+## جمع المكونات
 
-You will need:
-+ 2 x socket-socket jumper wires
-+ 1 x resistor
-+ 1 x LED
-+ Electrical tape
-+ Scissors
+سوف تحتاج:
++ 2 × أسلاك توصيل مقبس-مقبس
++ 1 × مقاومة
++ 1 × مصباح LED
++ شريط كهربائي
++ مقص
 
-![An image showing two jumper wires, electrical tape, an LED, a resistor and a pair of scissors.](images/you-will-need.jpg)
+![صورة توضح اثنين من أسلاك التوصيل وشريط كهربائي ومصباح LED ومقاوم ومقص.](images/you-will-need.jpg)
 
-## Find the positive leg of an LED
+## العثور على الساق الموجبة لمصباح LED
 
-An LED has a **positive** leg and a **negative** leg. The long leg is positive and the short leg is negative.
+يحتوي LED على ساق "موجبة" ** positive ** وساق "سالبة" **negative **. الساق الطويلة موجبة والساق القصيرة سالبة.
 
-![An LED with legs at two different lengths. The long leg is labelled positive and the short leg is labelled negative.](images/pos-neg.png){:width="200px"}
+![مصباح LED بأرجل بطولين مختلفين. يتم تصنيف الساق الطويلة على أنها موجبة ويتم تصنيف الساق القصيرة على أنها سالبة.](images/pos-neg.png){:width="200px"}
 
-**TIP**: Another way to check if a leg is positive or negative is to use your finger to find the flat side of the LED bulb. The **flat side** is on the same side as the **negative** leg.
+**نصيحة**: هناك طريقة أخرى للتحقق مما إذا كانت الساق موجبة أو سالبة وهي استخدام إصبعك للعثور على الجانب المسطح من مصباح LED. **الجانب المسطح** يوجد على نفس جهة الساق **السالبة**.
 
-## Twist the resistor around the positive leg of the LED
+## قم بلف المقاومة حول الساق الموجبة لمصباح LED
 
-Bend one of the legs of the resistor around the positive leg of the LED.
+إثنِ إحدى أرجل المقاومة حول الساق الموجبة لمصباح LED.
 
-![The leg of a resistor is bent around the positive leg of an LED.](images/bend-leg.jpg)
+![يتم ثني ساق المقاومة حول الساق الموجبة لمصباح LED.](images/bend-leg.jpg)
 
-Twist the resistor leg around the LED leg around three times.
+قم بلف ساق المقاومة حول ساق LED حوالي ثلاث مرات.
 
-![The leg of a resistor is twisted around the positive leg of an LED.](images/twist-leg.jpg)
+![يتم لف ساق المقاوم حول الساق الموجبة لمؤشر LED.](images/twist-leg.jpg)
 
-## Secure the resistor with electrical tape
+## قم بتأمين المقاومة بإستعمال شريط كهربائي
 
-Cut a small piece of electrical tape and stick it around the twisted resistor. This will help to make it a bit more secure.
+قص قطعة صغيرة من الشريط الكهربائي والصقها حول المقاومة الملتوية. هذا سيساعد على جعلها أكثر أمانا.
 
-![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.jpg)
+![يتم وضع شريط كهربائي حول الساق الملفوفة للمقاومة.](images/elec-tape.jpg)
 
-## Attach the two jumper wires
+## قم بتوصيل السلكين
 
-Attach one jumper wire to the other end of the resistor.
+قم بتوصيل سلك توصيل بالطرف الآخر من المقاومة.
 
-Attach the other jumper wire to the negative leg of the LED.
+قم بتوصيل السلك الآخر بالساق السالب لمصباح LED.
 
-![Two jumper wires are attached to an LED and a resistor.](images/jumper-wires.jpg)
+![يتم توصيل سلكي توصيل بمصباح LED ومقاومة.](images/jumper-wires.jpg)
 
-**TIP**: If they are quite loose then add some more electrical tape across the joins.
+**نصيحة**: إذا كانت مرتخية كثيرا، فقم بإضافة المزيد من الشريط الكهربائي عبر الوصلات.
