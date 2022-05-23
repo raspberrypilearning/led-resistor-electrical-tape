@@ -1,44 +1,44 @@
-## Gather components
+## Verzamel onderdelen
 
-You will need:
-+ 2 x socket-socket jumper wires
-+ 1 x resistor
+Je hebt nodig:
++ 2 x socket-socket jumperdraden
++ 1 x weerstand
 + 1 x LED
-+ Electrical tape
-+ Scissors
++ Isolatietape
++ Schaar
 
-![An image showing two jumper wires, electrical tape, an LED, a resistor and a pair of scissors.](images/you-will-need.jpg)
+![Een afbeelding met twee verbindingsdraden, iolatietape, een LED, een weerstand en een schaar.](images/you-will-need.jpg)
 
-## Find the positive leg of an LED
+## Zoek de positieve aansluiting van een LED
 
-An LED has a **positive** leg and a **negative** leg. The long leg is positive and the short leg is negative.
+Een LED heeft een **positieve** en een **negatieve** aansluiting. Het lange draadje is positief en het korte is negatief.
 
-![An LED with legs at two different lengths. The long leg is labelled positive and the short leg is labelled negative.](images/pos-neg.png){:width="200px"}
+![Een LED met poten met twee verschillende lengtes. Het lange deel is gelabeld als positief en het korte is gelabeld als negatief.](images/pos-neg.png){:width="200px"}
 
-**TIP**: Another way to check if a leg is positive or negative is to use your finger to find the flat side of the LED bulb. The **flat side** is on the same side as the **negative** leg.
+**TIP**: Een andere manier om te controleren of de aansluiting positief of negatief is, is door je vinger te gebruiken om de platte kant van de LED-lamp te vinden. De **platte kant** bevindt zich aan dezelfde kant als de **negatieve** aansluiting.
 
-## Twist the resistor around the positive leg of the LED
+## Draai de weerstand rond de positieve aansluiting van de LED
 
-Bend one of the legs of the resistor around the positive leg of the LED.
+Buig een van de poten van de weerstand om de positieve aansluiting van de LED.
 
-![The leg of a resistor is bent around the positive leg of an LED.](images/bend-leg.jpg)
+![De weerstand is om het positieve deel van een LED gebogen.](images/bend-leg.jpg)
 
-Twist the resistor leg around the LED leg around three times.
+Draai het weerstand drie keer rond de LED-aansluiting.
 
-![The leg of a resistor is twisted around the positive leg of an LED.](images/twist-leg.jpg)
+![De weerstand is om de positieve kant van een LED gedraaid.](images/twist-leg.jpg)
 
-## Secure the resistor with electrical tape
+## Zet de weerstand vast met isolatietape
 
-Cut a small piece of electrical tape and stick it around the twisted resistor. This will help to make it a bit more secure.
+Knip een klein stukje isolatietape en plak het rond de gedraaide weerstand. Dit zal helpen om het een beetje veiliger te maken.
 
-![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.jpg)
+![Elektrische tape is rond het gedraaide deel van een weerstand geplaatst.](images/elec-tape.jpg)
 
-## Attach the two jumper wires
+## Sluit de twee jumperdraden aan
 
-Attach one jumper wire to the other end of the resistor.
+Sluit een jumperdraad aan op het andere uiteinde van de weerstand.
 
-Attach the other jumper wire to the negative leg of the LED.
+Bevestig de andere jumperdraad aan de negatieve kant van de LED.
 
-![Two jumper wires are attached to an LED and a resistor.](images/jumper-wires.jpg)
+![Er zijn twee jumperdraden aangesloten op een LED en een weerstand.](images/jumper-wires.jpg)
 
-**TIP**: If they are quite loose then add some more electrical tape across the joins.
+**TIP**: Als ze een beetje los zijn, plak dan wat meer isolatietape over de verbindingen.
