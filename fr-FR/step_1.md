@@ -1,44 +1,44 @@
-## Gather components
+## Rassembler les composants
 
-You will need:
-+ 2 x socket-socket jumper wires
-+ 1 x resistor
+Tu auras besoin de :
++ 2 x fils de liaison femelle-femelle
++ 1 x résistance
 + 1 x LED
-+ Electrical tape
-+ Scissors
++ Du ruban isolant
++ Des ciseaux
 
-![An image showing two jumper wires, electrical tape, an LED, a resistor and a pair of scissors.](images/you-will-need.jpg)
+![Une image montrant deux fils de liaison, du ruban isolant, une LED, une résistance et une paire de ciseaux.](images/you-will-need.jpg)
 
-## Find the positive leg of an LED
+## Trouver la patte positive d'une LED
 
-An LED has a **positive** leg and a **negative** leg. The long leg is positive and the short leg is negative.
+Une LED a une patte **positive** et une patte **négative**. La longue patte est le positif et la courte est le négatif.
 
-![An LED with legs at two different lengths. The long leg is labelled positive and the short leg is labelled negative.](images/pos-neg.png){:width="200px"}
+![Une LED avec des pattes de deux longueurs différentes. La patte longue est étiquetée positive et la patte courte est étiquetée négative.](images/pos-neg.png){:width="200px"}
 
-**TIP**: Another way to check if a leg is positive or negative is to use your finger to find the flat side of the LED bulb. The **flat side** is on the same side as the **negative** leg.
+**ASTUCE**: Une autre façon de vérifier si une patte est positive ou négative est d'utiliser ton doigt pour trouver le côté plat de l'enveloppe plastique de la LED. Le **côté plat** est du même côté que la patte **négative**.
 
-## Twist the resistor around the positive leg of the LED
+## Enrouler une des pattes de la résistance autour de la patte positive de la LED
 
-Bend one of the legs of the resistor around the positive leg of the LED.
+Plie l'une des pattes de la résistance autour de la patte positive de la LED.
 
-![The leg of a resistor is bent around the positive leg of an LED.](images/bend-leg.jpg)
+![La patte d'une résistance est pliée autour de la patte positive d'une LED.](images/bend-leg.jpg)
 
-Twist the resistor leg around the LED leg around three times.
+Tourne la patte de la résistance autour de la patte de la LED environ trois fois.
 
-![The leg of a resistor is twisted around the positive leg of an LED.](images/twist-leg.jpg)
+![La patte d'une résistance est enroulée autour de la patte positive d'une LED.](images/twist-leg.jpg)
 
-## Secure the resistor with electrical tape
+## Fixer la résistance avec du ruban isolant
 
-Cut a small piece of electrical tape and stick it around the twisted resistor. This will help to make it a bit more secure.
+Coupe un petit morceau de ruban isolant et colle-le autour de la résistance torsadée. Cela contribuera à la rendre un peu plus résistante.
 
-![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.jpg)
+![Du ruban isolant est placé autour de la patte torsadée d'une résistance.](images/elec-tape.jpg)
 
-## Attach the two jumper wires
+## Attacher les deux fils de liaison
 
-Attach one jumper wire to the other end of the resistor.
+Attache un fil à l'autre extrémité de la résistance.
 
-Attach the other jumper wire to the negative leg of the LED.
+Attache l'autre fil de liaison à la patte négative de la LED.
 
-![Two jumper wires are attached to an LED and a resistor.](images/jumper-wires.jpg)
+![Deux fils de liaison sont attachés à une LED et à une résistance.](images/jumper-wires.jpg)
 
-**TIP**: If they are quite loose then add some more electrical tape across the joins.
+**CONSEIL**: S'il y a du jeu avec les fils, ajoute un peu plus de ruban isolant sur les raccords.
