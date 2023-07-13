@@ -1,7 +1,7 @@
 ## Verzamel onderdelen
 
 Je hebt nodig:
-+ 2 x socket-socket jumperdraden
++ 2 x bus-bus jumperdraden
 + 1 x weerstand
 + 1 x LED
 + Isolatietape
@@ -23,7 +23,7 @@ Buig een van de poten van de weerstand om de positieve aansluiting van de LED.
 
 ![De weerstand is om het positieve deel van een LED gebogen.](images/bend-leg.jpg)
 
-Draai het weerstand drie keer rond de LED-aansluiting.
+Draai de weerstand drie keer rond de LED-aansluiting.
 
 ![De weerstand is om de positieve kant van een LED gedraaid.](images/twist-leg.jpg)
 
