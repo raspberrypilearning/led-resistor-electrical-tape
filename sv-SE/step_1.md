@@ -1,44 +1,44 @@
-## Gather components
+## Plocka fram komponenter
 
-You will need:
-+ 2 x socket-socket jumper wires
-+ 1 x resistor
-+ 1 x LED
-+ Electrical tape
-+ Scissors
+Du behöver:
++ 2 x uttag-uttag byglingskablar
++ 1 x motstånd
++ 1 x Lysdiod
++ Eltejp
++ Sax
 
-![An image showing two jumper wires, electrical tape, an LED, a resistor and a pair of scissors.](images/you-will-need.jpg)
+![En bild som visar två byglingskablar, eltejp, en lysdiod, ett motstånd och en sax.](images/you-will-need.jpg)
 
-## Find the positive leg of an LED
+## Hitta det positiva benet på en lysdiod
 
-An LED has a **positive** leg and a **negative** leg. The long leg is positive and the short leg is negative.
+En lysdiod har ett **positivt** ben och ett **negativt** ben. Det långa benet är positivt och det korta benet är negativt.
 
-![An LED with legs at two different lengths. The long leg is labelled positive and the short leg is labelled negative.](images/pos-neg.png){:width="200px"}
+![En lysdiod med ben i två olika längder. Det långa benet är märkt positivt och det korta benet är märkt negativt.](images/pos-neg.png){:width="200px"}
 
-**TIP**: Another way to check if a leg is positive or negative is to use your finger to find the flat side of the LED bulb. The **flat side** is on the same side as the **negative** leg.
+**TIPS**: Ett annat sätt att kontrollera om ett ben är positivt eller negativt är att använda fingret för att hitta den platta sidan på lysdioden. Den **platta sidan** är på samma sida som den **negativa** benet.
 
-## Twist the resistor around the positive leg of the LED
+## Vrid ena benet på motståndet runt det positiva benet på lysdioden
 
-Bend one of the legs of the resistor around the positive leg of the LED.
+Böj ett av motståndets ben runt det positiva benet på lysdioden.
 
-![The leg of a resistor is bent around the positive leg of an LED.](images/bend-leg.jpg)
+![Benet på ett motstånd är böjt runt det positiva benet på en lysdiod.](images/bend-leg.jpg)
 
-Twist the resistor leg around the LED leg around three times.
+Vrid motståndsbenet runt lysdiodsbenet tre gånger.
 
-![The leg of a resistor is twisted around the positive leg of an LED.](images/twist-leg.jpg)
+![Benet på ett motstånd är vridet runt det positiva benet på en lysdiod.](images/twist-leg.jpg)
 
-## Secure the resistor with electrical tape
+## Fäst motståndet med eltejp
 
-Cut a small piece of electrical tape and stick it around the twisted resistor. This will help to make it a bit more secure.
+Klipp till en liten bit eltejp och fäst den runt det tvinnade motståndet. Detta kommer att göra så det sitter fast det lite bättre.
 
-![Electrical tape is placed around the twisted leg of a resistor.](images/elec-tape.jpg)
+![Eltejp sätts runt det vridna benet på ett motstånd.](images/elec-tape.jpg)
 
-## Attach the two jumper wires
+## Fäst de två byglingskablarna
 
-Attach one jumper wire to the other end of the resistor.
+Fäst en byglingskabel till den andra änden av motståndet.
 
-Attach the other jumper wire to the negative leg of the LED.
+Fäst den andra byglingskabeln till det negativa benet på lysdioden.
 
-![Two jumper wires are attached to an LED and a resistor.](images/jumper-wires.jpg)
+![Två byglingskablar är anslutna till en lysdiod och ett motstånd.](images/jumper-wires.jpg)
 
-**TIP**: If they are quite loose then add some more electrical tape across the joins.
+**TIPS**: Om de sitter löst, använd lite mer elektrisk tejp över skarvarna.
