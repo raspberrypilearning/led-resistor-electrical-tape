@@ -1,6 +1,6 @@
 ## Gather components
 
-You will need:
+必要なもの：
 + 2 x socket-socket jumper wires
 + 1 x resistor
 + 1 x LED
