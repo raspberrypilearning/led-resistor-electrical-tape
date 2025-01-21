@@ -1,11 +1,11 @@
 ## Gather components
 
-You will need:
+आपको चाहिये होगा:
 + 2 x socket-socket jumper wires
 + 1 x resistor
 + 1 x LED
 + Electrical tape
-+ Scissors
++ कैंची
 
 ![An image showing two jumper wires, electrical tape, an LED, a resistor and a pair of scissors.](images/you-will-need.jpg)
 
