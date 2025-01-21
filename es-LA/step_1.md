@@ -1,11 +1,11 @@
 ## Gather components
 
-You will need:
+Necesitarás:
 + 2 x socket-socket jumper wires
 + 1 x resistor
 + 1 x LED
 + Electrical tape
-+ Scissors
++ Tijeras
 
 ![An image showing two jumper wires, electrical tape, an LED, a resistor and a pair of scissors.](images/you-will-need.jpg)
 
