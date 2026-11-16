@@ -1,7 +1,7 @@
 ## Reúne los componentes
 
 Necesitarás:
-+ 2 x cables puente hembra a hembra
++ 2 x cables puente receptáculo a receptáculo
 + 1 x resistencia
 + 1 x diodo LED
 + Cinta aislante
