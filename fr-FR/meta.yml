@@ -7,4 +7,5 @@ listed: false
 copyedit: false
 last_tested: "2022-01-25"
 steps:
-  - title: Attacher une LED à la résistance électrique à l'aide d'un ruban isolant
+  - 
+    title: Attacher une LED à la résistance électrique à l'aide d'un ruban isolant

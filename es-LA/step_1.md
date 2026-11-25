@@ -42,4 +42,3 @@ Conecta el otro cable puente a la patita negativa del LED.
 ![Dos cables puente están conectados a un LED y a una resistencia.](images/jumper-wires.jpg)
 
 **CONSEJO**: Si quedan muy flojos, coloca un poco más de cinta aislante sobre las uniones.
-
